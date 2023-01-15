@@ -51,7 +51,7 @@
 
 ![FNABEEL GITHUB STATS](https://github-readme-stats.vercel.app/api?username=FNabeel&show_icons=true)
 
-![FNABEEL GITHUB STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+![FNABEEL GITHUB STATS](https://github-readme-stats.vercel.app/api/top-langs/?fnabeel=Tanu-N-Prabhu&theme=blue-green)
 
 
 

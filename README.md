@@ -3,7 +3,8 @@
 ### <h1> Hi ٱلسَّلَامُ عَلَيْكُمْ (Peace be upon you) my name is Faris. 
 <h2>IT Professional from the Caribbean
 
-- 🏢 I'm currently open to hire
+- 🏢 [I'm currently open to hire]([FNITRESUME23_1.pdf](https://github.com/fnabeel/fnabeel/files/10421297/FNITRESUME23_1.pdf))
+
 - 🧠 I'm actively improving my skillset, enjoy the show
 - 🗃 I'm currently working on compiling my projects
 - 👯 I’m looking to collaborate on any project in IT or DA

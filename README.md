@@ -49,5 +49,5 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![FNABEEL GITHUB STATS](https://github-readme-stats.vercel.app/api?username=FNabeel&show_icons=true)
 

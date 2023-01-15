@@ -31,7 +31,7 @@
 
 <div>
 
-<h2>💹Data Analytics & Science Projects:(WIP)</h2>
+<h2>💹Data Analytics & Science Projects:</h2>
 
 - <b>[Case Study DA 1: How does a bike-share navigate speedy success?](https://github.com/fnabeel/bike-share)<b>
 - <b>[Case Study DA 2: How can a wellness company play it smart?](https://github.com/fnabeel/wellness-company)<b>
@@ -43,7 +43,7 @@
 <div>
 
 
-<h2>🔬Personal PC Building Projects:(WIP)</h2>
+<h2>🔬Personal PC Building Projects:</h2>
 
 - <b>[Code Name Yennefer](https://github.com/fnabeel/PC)<b>
 

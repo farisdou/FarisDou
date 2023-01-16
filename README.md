@@ -50,5 +50,6 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 
-![FNABEEL GITHUB STATS](https://github-readme-stats.vercel.app/api?username=FNabeel&show_icons=true)
+![cyberpunk-blackwall (1)](https://user-images.githubusercontent.com/109401839/212596087-4628a536-ae1f-4337-b348-86245c52b05a.gif)
+
 

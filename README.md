@@ -1,6 +1,6 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
-### <h1> </World ,ٱلسَّلَامُ عَلَيْكُمْ> My name is Faris. 
+### <h1> </World ,ٱلسَّلَامُ عَلَيْكُمْ👋> My name is Faris. 
 <h2>IT Professional from the Caribbean
 
 - 🏢 [I'm currently open to hire]([FNITRESUME23_1.pdf](https://github.com/fnabeel/fnabeel/files/10421297/FNITRESUME23_1.pdf))

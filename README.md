@@ -44,9 +44,13 @@
 <div>
 
 
-<h2>🔬Personal PC Building Projects:</h2>
+<h2>🔬PC Building Projects:</h2>
 
 - <b>[Code Name Yennefer](https://github.com/fnabeel/PC)<b>
+
+<h2>🔬Discord Server Build:</h2>
+
+- <b>[The Centre](https://github.com/fnabeel/Building-A-Discord-Server)<b>
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 

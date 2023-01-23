@@ -16,7 +16,7 @@
 
 <div>
 
-<details close>
+<Projects close>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing Systems)</b>
@@ -41,7 +41,6 @@
 
 <div>
 
-<details close>
 <h2>💹Data Analytics & Science Projects:</h2>
 
 - <b>[Case Study DA 1: How does a bike-share navigate speedy success?](https://github.com/fnabeel/bike-share)<b>
@@ -53,7 +52,6 @@
 
 <div>
 
-<details close>
 <h2>🔬PC Building Projects:</h2>
 
 - <b>[Code Name Yennefer](https://github.com/fnabeel/PC)<b>

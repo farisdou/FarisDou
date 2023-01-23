@@ -17,6 +17,7 @@
 <div>
 
 <details close>
+<summary>:zap: Projects</summary>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing Systems)</b>
@@ -61,6 +62,7 @@
 
 - <b>[The Centre](https://github.com/fnabeel/Building-A-Discord-Server)<b>
 - <b>Le Professionnel<b>
+</details>
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 

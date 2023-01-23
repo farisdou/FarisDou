@@ -28,6 +28,12 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/fnabeel/-azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/fnabeel/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/fnabeel/Building-Intuition-for-DNS)
+
+- <b>Operating Systems</b>
+  - Creating, modifying, and removing file and folder permissions in Windows
+  - Creating, modifying, and removing file and folder permissions in Linux (No GUI) 
+
+ 
 ---
 
 <div>

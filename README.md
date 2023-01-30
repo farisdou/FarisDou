@@ -31,12 +31,6 @@
   - [Network File Shares and Permissions](https://github.com/fnabeel/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/fnabeel/Building-Intuition-for-DNS)
 
-- <b>Operating Systems</b>
-  - Creating, modifying, and removing file and folder permissions in Windows
-  - Creating, modifying, and removing file and folder permissions in Linux (No GUI) 
-
-  - <b>Cybersecruity</b>
-
  
 ---
 
@@ -53,6 +47,12 @@
 
 <div>
 
+
+
+
+---
+
+<div>
 <h2>🔬PC Building Projects:</h2>
 
 - <b>[Code Name Yennefer](https://github.com/fnabeel/PC)<b>

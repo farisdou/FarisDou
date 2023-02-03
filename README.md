@@ -32,23 +32,20 @@
   - [Building Intuition for DNS](https://github.com/fnabeel/Building-Intuition-for-DNS)
 
  
----
-
-<div>
-
-<h2>💹Data Analytics & Science Projects:</h2>
-
-- <b>[Case Study DA 1: How does a bike-share navigate speedy success?](https://github.com/fnabeel/bike-share)<b>
-- <b>[Case Study DA 2: How can a wellness company play it smart?](https://github.com/fnabeel/wellness-company)<b>
-- <b>[Case Study DS: Falcon-9](https://github.com/fnabeel/Space-X-Falcon-9)<b> 
-- <b>[Case Study DS: Covid-19](https://github.com/fnabeel/COVID-19)<b>
 
 ---
 
 <div>
+<h2>👨‍💻 Salesforce Admin:</h2>
 
-
-
+- <b>Configure and Setup (Organisations, Users, Secruity)<b>
+- <b> Object Manager and Lighting App Builder<b>
+- <b> Sales and Marketing Applications
+- <b> Service and Support Applications
+- <b> Productivity and Collaborations
+- <b> Data and Analytics Management
+- <b> Workflow (Process Automation)
+- <b> Webassessor Registration
 
 ---
 

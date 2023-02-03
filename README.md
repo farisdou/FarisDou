@@ -1,15 +1,13 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
 ### <h1> </World ,ٱلسَّلَامُ عَلَيْكُمْ👋> My name is Faris. 
-<h2>IT Professional from the Caribbean
-
-- 🏢 [I'm currently open to hire]([FNITRESUME23_1.pdf](https://github.com/fnabeel/fnabeel/files/10421297/FNITRESUME23_1.pdf))
+<h2>Aspiring IT Admin Professional<h2>
 
 - 🧠 I'm actively improving my skillset, enjoy the show
 - 🗃 I'm currently working on compiling my projects
-- 👯 I’m looking to collaborate on any project in IT or DA
-- 🌍 I'm mostly active within the LinkedIn,Discord, Github Communities
-- 💬 Ping me about **IT**, **Data Analytics**, **Content Creation**, **Finance**, **Collaborations**, **General Talk**
+- 👯 I’m looking to collaborate on any project
+- 🌍 I'm mostly active within the LinkedIn, Discord, and Github
+- 💬 Ping me about **IT**, **Data Analytics**, **Content Creation**, **Collaborations**, **General Talk**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/fnabeel/)
 
 ---

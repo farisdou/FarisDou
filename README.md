@@ -39,7 +39,10 @@
   - [Network File Shares and Permissions](https://github.com/fnabeel/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/fnabeel/Building-Intuition-for-DNS)
 
- 
+<h2> 💻Data Projects:</h2>
+  
+- <b>Data Pipeline</b>
+  - [Building Process and Running the Pipeline](https://github.com/fnabeel/Building-Pipelines)
 
 ---
 

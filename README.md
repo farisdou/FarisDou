@@ -44,16 +44,12 @@
 ---
 
 <div>
-<h2>👨‍💻 Salesforce Admin:</h2>
+<h2>👨‍💻 AWS Pathway:</h2>
 
-- <b>Configure and Setup (Organisations, Users, Secruity)<b>
-- <b> Object Manager and Lighting App Builder<b>
-- <b> Sales and Marketing Applications
-- <b> Service and Support Applications
-- <b> Productivity and Collaborations
-- <b> Data and Analytics Management
-- <b> Workflow (Process Automation)
-- <b> Webassessor Registration
+- <b> AWS Cloud Practitioner
+- <b> AWS Developer Associate
+- <b> AWS Solutions Architect
+- <b> AWS SysOps Admin
 
 ---
 
@@ -61,11 +57,9 @@
 <h2>🔬PC Building Projects:</h2>
 
 - <b>[Code Name Yennefer](https://github.com/fnabeel/PC)<b>
-- <b>Overclocking, Undervolting, Tweaking(AMD)<b>
 
 <h2>🔬Discord Server Build:</h2>
 
-- <b>[The Centre](https://github.com/fnabeel/Building-A-Discord-Server)<b>
-- <b>Le Professionnel<b>
+- <b>[Le Professionnel](https://github.com/fnabeel/Building-A-Discord-Server))<b>
 </details>
 

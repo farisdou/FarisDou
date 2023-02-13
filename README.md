@@ -26,7 +26,7 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 
 </summary>
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 IT Help Desk Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing Systems)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/fnabeel/osticket_prereqs)
@@ -44,7 +44,7 @@
 ---
 
 <div>
-<h2>👨‍💻 AWS Pathway:</h2>
+<h2>👨‍💻 AWS Pathway Projects:</h2>
 
 - <b> AWS Cloud Practitioner
 - <b> AWS Developer Associate
@@ -60,6 +60,6 @@
 
 <h2>🔬Discord Server Build:</h2>
 
-- <b>[Le Professionnel](https://github.com/fnabeel/Building-A-Discord-Server))<b>
+- <b>[Le Professionnel](https://github.com/fnabeel/Building-A-Discord-Server)<b>
 </details>
 

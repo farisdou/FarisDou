@@ -47,16 +47,6 @@
 ---
 
 <div>
-<h2>👨‍💻 AWS Pathway Projects:</h2>
-
-- <b> AWS Cloud Practitioner
-- <b> AWS Developer Associate
-- <b> AWS Solutions Architect
-- <b> AWS SysOps Admin
-
----
-
-<div>
 <h2>🔬PC Building Projects:</h2>
 
 - <b>[Code Name Yennefer](https://github.com/fnabeel/PC)<b>

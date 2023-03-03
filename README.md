@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on any project
 - 🌍 I'm mostly active within the LinkedIn, Discord, and Github
 - 💬 Ping me about **IT**, **Data Analytics**, **Content Creation**, **Collaborations**, **General Talk**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/fnabeel/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/fnabeel/) or [Discord](https://discord.com/invite/Yr3nveCWAE)
 </details>
 
 ---

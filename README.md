@@ -22,10 +22,28 @@
 
 <summary>
 
-
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 
 </summary>
+
+<h2> 🔐Cybersecurity Projects:</h2>
+  
+- Setup SIEM in Azure
+- Create a File Integrity Monitor
+- Create a Vulnerability Management Lab
+- Build a Simple REST API
+
+<div>
+
+<h2> 💻Data Projects:</h2>
+  
+- <b>Data Pipeline</b>
+  - [Building Process and Running the Pipeline](https://github.com/fnabeel/Building-Pipelines)
+  - [Data Science Collection](https://github.com/fnabeel/Data-Science-Collection)
+  - [SpaceX Falcon-9](https://github.com/fnabeel/Space-X-Falcon-9)
+
+---
+
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing Systems)</b>
@@ -39,15 +57,6 @@
   - [Network File Shares and Permissions](https://github.com/fnabeel/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/fnabeel/Building-Intuition-for-DNS)
 
-<h2> 💻Data Projects:</h2>
-  
-- <b>Data Pipeline</b>
-  - [Building Process and Running the Pipeline](https://github.com/fnabeel/Building-Pipelines)
-  - [Data Science Collection](https://github.com/fnabeel/Data-Science-Collection)
-  - [SpaceX Falcon-9](https://github.com/fnabeel/Space-X-Falcon-9)
-
----
-
 <div>
 <h2>🔬PC Building Projects:</h2>
 
@@ -57,4 +66,3 @@
 
 - <b>[Le Professionnel](https://github.com/fnabeel/Building-A-Discord-Server)<b>
 </details>
-

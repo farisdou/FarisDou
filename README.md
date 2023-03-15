@@ -33,6 +33,12 @@
 - Create a Vulnerability Management Lab
 - Build a Simple REST API
 
+---
+
+<div>
+
+<h2>100 Days of Python Coding</h2>
+
 <div>
 
 <h2> 💻Data Projects:</h2>
@@ -57,10 +63,14 @@
   - [Network File Shares and Permissions](https://github.com/fnabeel/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/fnabeel/Building-Intuition-for-DNS)
 
+---
+
 <div>
 <h2>🔬PC Building Projects:</h2>
 
 - <b>[Code Name Yennefer](https://github.com/fnabeel/PC)<b>
+
+---
 
 <h2>🔬Discord Server Build:</h2>
 

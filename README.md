@@ -33,13 +33,6 @@
 - Create a Vulnerability Management Lab
 - Build a Simple REST API
 
----
-
-<div>
-
-<h2>100 Days of Python Coding</h2>
-
-<div>
 
 <h2> 💻Data Projects:</h2>
   

@@ -24,10 +24,12 @@
 
 <h2> 🔐Cybersecurity Projects:</h2>
   
-- Setup SIEM in Azure
-- Create a File Integrity Monitor
-- Create a Vulnerability Management Lab
-- Build a Simple REST API
+### [Project Directory](https://github.com/fnabeel/Information-Security)
+
+- [Cloud SOC Pre-requisites](https://github.com/fnabeel/Azure-Introduction)
+- [Logging and Monitoring](https://github.com/fnabeel/Logging-and-Monitoring)
+- [Microsoft Sentinel SIEM](https://github.com/fnabeel/Logging-and-Monitoring)
+- [Secure Cloud Configuration](https://github.com/fnabeel/Secure-Cloud-Configuration)
 
 
 <h2> 💻Data Projects:</h2>

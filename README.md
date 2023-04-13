@@ -3,7 +3,7 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
 </summary>
-<h3>Aspiring Cloud Secruity IT Professional<h3>
+<h3>Aspiring Cloud Secruity Professional<h3>
 
 - My name is Faris.
 - 🧠 I'm actively improving my skillset, enjoy the show

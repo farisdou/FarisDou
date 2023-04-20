@@ -26,7 +26,7 @@
   
 ### [Project Directory](https://github.com/fnabeel/Information-Security)
 
-- [Cloud SOC Pre-requisites](https://github.com/fnabeel/Azure-Introduction)
+- [Cloud SOC Pre-requisites](https://github.com/fnabeel/Cloud-SOC-PreReq)
 - [Logging and Monitoring](https://github.com/fnabeel/Logging-and-Monitoring)
 - [Microsoft Sentinel SIEM](https://github.com/fnabeel/Logging-and-Monitoring)
 - [Secure Cloud Configuration](https://github.com/fnabeel/Secure-Cloud-Configuration)

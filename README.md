@@ -25,7 +25,8 @@
 <h2> 🔐Cybersecurity Projects:</h2>
   
 ### [Project Directory](https://github.com/fnabeel/Information-Security)
-
+#### [Summary of Cloud SOC Project](https://github.com/fnabeel/Cloud-SOC-Final)
+<b> Each part of the project: <b>
 - [Cloud SOC Pre-requisites](https://github.com/fnabeel/Cloud-SOC-PreReq)
 - [Logging and Monitoring](https://github.com/fnabeel/Logging-and-Monitoring)
 - [Microsoft Sentinel SIEM](https://github.com/fnabeel/Logging-and-Monitoring)
@@ -52,17 +53,6 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/fnabeel/-azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/fnabeel/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/fnabeel/Building-Intuition-for-DNS)
-
 ---
-
 <div>
-<h2>🔬PC Building Projects:</h2>
-
-- <b>[Code Name Yennefer](https://github.com/fnabeel/PC)<b>
-
----
-
-<h2>🔬Discord Server Build:</h2>
-
-- <b>[Le Professionnel](https://github.com/fnabeel/Building-A-Discord-Server)<b>
 </details>

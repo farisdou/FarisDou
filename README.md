@@ -1,8 +1,5 @@
-
-  
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
-</summary>
 <h3>Aspiring Cloud Secruity Professional<h3>
 
 - My name is Faris.
@@ -12,18 +9,19 @@
 - 🌍 I'm mostly active within the LinkedIn, Discord, and Github
 - 💬 Ping me about **IT**, **Data Analytics**, **Content Creation**, **Collaborations**, **General Talk**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/fnabeel/) or [Discord](https://discord.com/invite/Yr3nveCWAE)
-</details>
 
 ---
 
-<summary>
-
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
+
+<h2> 🔐Cybersecurity Projects:</h2>
+
+<details close>
+
+<div>
 
 </summary>
 
-<h2> 🔐Cybersecurity Projects:</h2>
-  
 ### [Project Directory](https://github.com/fnabeel/Information-Security)
 #### [Summary of Cloud SOC Project](https://github.com/fnabeel/Cloud-SOC-Final)
 <b> Each part of the project: <b>
@@ -32,7 +30,15 @@
 - [Microsoft Sentinel SIEM](https://github.com/fnabeel/Microsoft-Sentinel-SIEM-)
 - [Secure Cloud Configuration](https://github.com/fnabeel/Secure-Cloud-Configuration)
 
+---
+
 <h2> 💻Data Projects:</h2>
+
+<details close>
+
+<div>
+
+</summary>
   
   - [Building Process and Running the Pipeline](https://github.com/fnabeel/Building-Pipelines)
   - [Data Science Collection](https://github.com/fnabeel/Data-Science-Collection)
@@ -41,6 +47,12 @@
 ---
 
 <h2>👨‍💻 IT Help Desk Projects:</h2>
+
+<details close>
+
+<div>
+
+</summary>
 
 - <b>osTicket (Help Desk Ticketing Systems)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/fnabeel/osticket_prereqs)
@@ -52,6 +64,3 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/fnabeel/-azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/fnabeel/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/fnabeel/Building-Intuition-for-DNS)
----
-<div>
-</details>

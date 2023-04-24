@@ -2,9 +2,9 @@
 
 <h3>Aspiring Cloud Secruity Professional<h3>
 
-- My name is Faris.
+- My name is Faris. Professional
 - 🧠 I'm actively improving my skillset, enjoy the show
-- 🗃 I'm currently working on compiling my projects
+- 🗃 I'm currently working on my Cybersecurity Projects & Salesforce Certificate
 - 👯 I’m looking to collaborate on any project
 - 🌍 I'm mostly active within the LinkedIn, Discord, and Github
 - 💬 Ping me about **IT**, **Data Analytics**, **Content Creation**, **Collaborations**, **General Talk**

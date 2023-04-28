@@ -22,8 +22,7 @@
 
 </summary>
 
-### [Project Directory](https://github.com/fnabeel/Information-Security)
-#### [Summary of Cloud SOC Project](https://github.com/fnabeel/Cloud-SOC-Final)
+### [Summary of Cloud SOC Project](https://github.com/fnabeel/Information-Security)
 <b> Each part of the project: <b>
 - [Cloud SOC Pre-requisites](https://github.com/fnabeel/Cloud-SOC-PreReq)
 - [Logging and Monitoring](https://github.com/fnabeel/Logging-and-Monitoring)

@@ -2,7 +2,7 @@
 
 ![banner](https://user-images.githubusercontent.com/109401839/236074689-109d1104-6503-4ca9-9c28-15d9df81b1f2.png)
 
-- Aspiring Cloud Secruity Professional
+- ☁ Aspiring Cloud Secruity Professional
 
 - 🧠 I'm actively improving my skillset.
 

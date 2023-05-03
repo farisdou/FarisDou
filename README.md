@@ -18,7 +18,7 @@
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 
-<h2> All Projects:</h2>
+<h2> Relevant Projects:</h2>
 
 <details close>
 

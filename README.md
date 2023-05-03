@@ -41,9 +41,11 @@
 
 </summary>
   
-  - [Building Process and Running the Pipeline](https://github.com/fnabeel/Building-Pipelines)
+  - [SOC Environment Analysis](https://github.com/fnabeel/SOC-Environment-Cost-Analysis)
+  - [Creating & Processing Data Pipeline](https://github.com/fnabeel/Building-Pipelines)
   - [Data Science Collection](https://github.com/fnabeel/Data-Science-Collection)
   - [SpaceX Falcon-9](https://github.com/fnabeel/Space-X-Falcon-9)
+  
 
 ---
 

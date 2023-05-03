@@ -2,12 +2,16 @@
 
 <h3>Aspiring Cloud Secruity Professional<h3>
 
-- My name is Faris. Professional
-- 🧠 I'm actively improving my skillset, enjoy the show
-- 🗃 I'm currently working on my Cybersecurity Projects & Salesforce Certificate
-- 👯 I’m looking to collaborate on any project
-- 🌍 I'm mostly active within the LinkedIn, Discord, and Github
+- My name is Faris, A Cyber Security Professional
+
+- 🧠 I'm actively improving my skillset.
+
+- 🗃 I'm currently working on my Cloud Projects.
+
+- 🌍 I'm mostly active within the LinkedIn, Discord, and Github.
+
 - 💬 Ping me about **IT**, **Data Analytics**, **Content Creation**, **Collaborations**, **General Talk**
+
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/fnabeel/) or [Discord](https://discord.com/invite/Yr3nveCWAE)
 
 ---
@@ -46,7 +50,6 @@
   - [Data Science Collection](https://github.com/fnabeel/Data-Science-Collection)
   - [SpaceX Falcon-9](https://github.com/fnabeel/Space-X-Falcon-9)
   
-
 ---
 
 <h2>👨‍💻 IT Help Desk Projects:</h2>

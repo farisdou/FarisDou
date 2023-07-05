@@ -6,7 +6,7 @@
 
 - 🧠 I'm actively improving my skillset.
 
-- 🗃 I'm currently working on my Cloud Projects.
+- 🗃 I'm currently working on Splunk Projects.
 
 - 🌍 I'm mostly active within the LinkedIn, Discord, and Github.
 

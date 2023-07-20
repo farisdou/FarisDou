@@ -12,7 +12,7 @@
 
 - 💬 Ping me about **IT**, **Data Analytics**, **Content Creation**, **Collaborations**, **General Talk**
 
-- 📫 Reach me: [My Website](https://fnabeel.com)
+- 📫 Reach me at [My Website](https://fnabeel.com)
 
 ---
 

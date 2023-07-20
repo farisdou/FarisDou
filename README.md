@@ -1,7 +1,5 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
-![banner](https://user-images.githubusercontent.com/109401839/236074689-109d1104-6503-4ca9-9c28-15d9df81b1f2.png)
-
 - ☁ Aspiring DevSecOps with Privacy by Design Principles. 
 
 - 🧠 I'm actively improving my skillset.
@@ -16,9 +14,9 @@
 
 ---
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
-
 <h2> Relevant Projects:</h2>
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 
 <details close>
 

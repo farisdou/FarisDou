@@ -2,17 +2,17 @@
 
 ![banner](https://user-images.githubusercontent.com/109401839/236074689-109d1104-6503-4ca9-9c28-15d9df81b1f2.png)
 
-- ☁ Aspiring Cloud Secruity Professional
+- ☁ Aspiring DevSecOps with Privacy by Design Principles. 
 
 - 🧠 I'm actively improving my skillset.
 
-- 🗃 I'm currently working on Splunk Projects.
+- 🗃 I'm currently working on Splunk project, and developing software..
 
-- 🌍 I'm mostly active within the LinkedIn, Discord, and Github.
+- 🌍 I'm mostly active within the LinkedIn & Discord.
 
 - 💬 Ping me about **IT**, **Data Analytics**, **Content Creation**, **Collaborations**, **General Talk**
 
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/fnabeel/) or [Discord](https://discord.com/invite/Yr3nveCWAE)
+- 📫 Reach me: [My Website](https://fnabeel.com)
 
 ---
 

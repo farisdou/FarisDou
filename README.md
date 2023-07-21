@@ -26,13 +26,14 @@
 
 <h2> 🔐Cybersecurity Projects:</h2>
 
-### [Summary of Cloud SOC Project](https://github.com/fnabeel/Cloud-SOC-Project-Directory)
-
+- [Summary of Cloud SOC Project](https://github.com/fnabeel/Cloud-SOC-Project-Directory)
 - [Cloud SOC Pre-requisites](https://github.com/fnabeel/Cloud-SOC-PreReq)
 - [Logging and Monitoring](https://github.com/fnabeel/Logging-and-Monitoring)
 - [Microsoft Sentinel SIEM](https://github.com/fnabeel/Microsoft-Sentinel-SIEM-)
 - [Secure Cloud Configuration](https://github.com/fnabeel/Secure-Cloud-Configuration)
+---
 - [Azure Integration to Splunk](https://github.com/fnabeel/Azure-Splunk)
+
 ---
 
 <h2> 💻Data Projects:</h2>

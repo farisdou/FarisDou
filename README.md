@@ -32,7 +32,7 @@
 - [Logging and Monitoring](https://github.com/fnabeel/Logging-and-Monitoring)
 - [Microsoft Sentinel SIEM](https://github.com/fnabeel/Microsoft-Sentinel-SIEM-)
 - [Secure Cloud Configuration](https://github.com/fnabeel/Secure-Cloud-Configuration)
-
+- [Azure Integration to Splunk](https://github.com/fnabeel/Azure-Splunk)
 ---
 
 <h2> 💻Data Projects:</h2>

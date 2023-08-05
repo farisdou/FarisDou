@@ -8,7 +8,7 @@
 
 - 🌍 I'm mostly active within the LinkedIn & Discord.
 
-- 💬 Ping me about **IT**, **Data Analytics**, **Content Creation**, **Collaborations**, **General Talk**
+- 💬 Ping me about **Cybersecurity**, **Data Analytics**, **Software Development**, **Collaborations**, **General Talk**
 
 - 📫 Reach me at [My Website](https://fnabeel.com)
 

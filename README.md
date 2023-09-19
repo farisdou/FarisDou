@@ -53,7 +53,7 @@ Click "Details" Below For List Of Projects By Industry
   
 ---
 
-<h2>👨‍💻 IT Help Desk Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 <details close>
 

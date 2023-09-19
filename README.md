@@ -12,6 +12,8 @@
 
 - 📫 Reach me at [My Website](https://fnabeel.com)
 
+Click "Details" Below For List Of Projects By Industry
+
 ---
 
 <h2> Relevant Projects:</h2>

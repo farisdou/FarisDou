@@ -1,16 +1,15 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
-- ☁ Aspiring DevSecOps with Privacy by Design Principles. 
+- ☁ Conquering All Domains of Security. 
 
 - 🧠 I'm actively improving my skillset.
 
-- 🗃 I'm currently working on Splunk project, and developing software..
+- 🗃 I'm currently working on DevOps
 
-- 🌍 I'm mostly active within the LinkedIn & Discord.
+- 🌍 I'm mostly active on TryHackMe.
 
-- 💬 Ping me about **Cybersecurity**, **Data Analytics**, **Software Development**, **Collaborations**, **General Talk**
 
-- 📫 Reach me at [My Website](https://fnabeel.com)
+
 
 Click "Details" Below For List Of Projects By Industry
 

@@ -4,7 +4,7 @@
 
 - 🧠 I'm actively improving my skillset.
 
-- 🗃 I'm currently working on DevOps
+- 🗃 I'm currently working on DevOps.
 
 - 🌍 I'm mostly active on TryHackMe.
 

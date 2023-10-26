@@ -27,13 +27,13 @@ Click "Details" Below For List Of Projects By Industry
 
 <h2> 🔐Cybersecurity Projects:</h2>
 
-- [Summary of Cloud SOC Project](https://github.com/fnabeel/Cloud-SOC-Project-Directory)
-- [Cloud SOC Pre-requisites](https://github.com/fnabeel/Cloud-SOC-PreReq)
-- [Logging and Monitoring](https://github.com/fnabeel/Logging-and-Monitoring)
-- [Microsoft Sentinel SIEM](https://github.com/fnabeel/Microsoft-Sentinel-SIEM-)
-- [Secure Cloud Configuration](https://github.com/fnabeel/Secure-Cloud-Configuration)
+- [Summary of Cloud SOC Project](https://github.com/pludou/Cloud-SOC-Project-Directory)
+- [Cloud SOC Pre-requisites](https://github.com/pludou/Cloud-SOC-PreReq)
+- [Logging and Monitoring](https://github.com/pludou/Logging-and-Monitoring)
+- [Microsoft Sentinel SIEM](https://github.com/pludou/Microsoft-Sentinel-SIEM-)
+- [Secure Cloud Configuration](https://github.com/pludou/Secure-Cloud-Configuration)
 ---
-- [Azure Integration to Splunk](https://github.com/fnabeel/Azure-Splunk)
+- [Azure Integration to Splunk](https://github.com/pludou/Azure-Splunk)
 
 ---
 
@@ -61,12 +61,12 @@ Click "Details" Below For List Of Projects By Industry
 </summary>
 
 - <b>osTicket (Help Desk Ticketing Systems)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/fnabeel/osticket_prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/fnabeel/osTicket---Post-Install-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/fnabeel/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
+  - [osTicket: Prerequisites and Installation](https://github.com/pludou/osticket_prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/pludou/osTicket---Post-Install-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/pludou/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/fnabeel/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/fnabeel/-azure-network-protocols)
-  - [Network File Shares and Permissions](https://github.com/fnabeel/Network-File-Shares-and-Permissions)
-  - [Building Intuition for DNS](https://github.com/fnabeel/Building-Intuition-for-DNS)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/pludou/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/fpludou/-azure-network-protocols)
+  - [Network File Shares and Permissions](https://github.com/pludou/Network-File-Shares-and-Permissions)
+  - [Building Intuition for DNS](https://github.com/pludou/Building-Intuition-for-DNS)

@@ -21,11 +21,21 @@ Click "Details" Below For List Of Projects By Industry
 
 <details close>
 
+</summary>
+
+---
+
+<h2> ☁️ Cloud DevOps Projects:</h2>
+
+- [Native K8s Cloud Monitoring Application]
+
+<details close>
+
+<h2> 🔐Cybersecurity Projects:</h2>
+
 <div>
 
 </summary>
-
-<h2> 🔐Cybersecurity Projects:</h2>
 
 - [Summary of Cloud SOC Project](https://github.com/pludou/Cloud-SOC-Project-Directory)
 - [Cloud SOC Pre-requisites](https://github.com/pludou/Cloud-SOC-PreReq)
@@ -35,24 +45,22 @@ Click "Details" Below For List Of Projects By Industry
 
 ---
 
-<h2> 💻Data Projects:</h2>
-
 <details close>
+
+<h2> 💻Data Projects:</h2>
 
 <div>
 
 </summary>
   
-  - [SOC Environment Analysis](https://github.com/fnabeel/SOC-Environment-Cost-Analysis)
   - [Creating & Processing Data Pipeline](https://github.com/fnabeel/Building-Pipelines)
   - [Data Science Collection](https://github.com/fnabeel/Data-Science-Collection)
   - [SpaceX Falcon-9](https://github.com/fnabeel/Space-X-Falcon-9)
   
 ---
+<details close>
 
 <h2>👨‍💻 SysAdmin Projects:</h2>
-
-<details close>
 
 <div>
 

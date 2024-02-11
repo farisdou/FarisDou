@@ -4,9 +4,9 @@
 
 - 🧠 I'm actively improving my skillset.
 
-- 🗃 I'm currently working on DevOps.
+- 🗃 I'm currently working on Certifications: CASP+, CISM, AWS SAA, & CISSP.
 
-- 🌍 I'm mostly active on TryHackMe.
+- 🌍 I'm mostly active on discord.
 
 
 

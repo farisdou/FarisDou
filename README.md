@@ -4,7 +4,7 @@
 
 - 🧠 I'm actively improving my skillset.
 
-- 🗃 I'm currently working on Certifications: CASP+, CISM, AWS SAA, & CISSP.
+- 🗃 I'm currently working on Certifications: CASP+, CISM, AWS CCP, Azure 900 & CISSP.
 
 - 🌍 I'm mostly active on discord.
 

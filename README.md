@@ -32,8 +32,6 @@ Click "Details" Below For List Of Projects By Industry
 - [Logging and Monitoring](https://github.com/pludou/Logging-and-Monitoring)
 - [Microsoft Sentinel SIEM](https://github.com/pludou/Microsoft-Sentinel-SIEM-)
 - [Secure Cloud Configuration](https://github.com/pludou/Secure-Cloud-Configuration)
----
-- [Azure Integration to Splunk](https://github.com/pludou/Azure-Splunk)
 
 ---
 
@@ -52,7 +50,7 @@ Click "Details" Below For List Of Projects By Industry
   
 ---
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 SysAdmin Projects:</h2>
 
 <details close>
 

@@ -4,9 +4,9 @@
 
 - 🧠 I'm actively improving my skillset.
 
-- 🗃 I'm currently working on Certifications: CASP+, CISM, AWS SAA, AZURE SC-900
+- 🗃 I'm currently working on Certifications.
 
-- 🌍 I'm mostly active on discord.
+- 🌍 I'm mostly active Valorant.
 
 
 

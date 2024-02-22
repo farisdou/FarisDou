@@ -2,11 +2,11 @@
 
 - ☁ Conquering All Domains of Security. 
 
-- 🧠 I'm actively improving my skillset.
+- 🧠 I'm actively improving my skillset, next will be Vulnerability Management.
 
 - 🗃 I'm currently working on Certifications.
 
-- 🌍 I'm mostly active Valorant.
+- 🌍 I'm mostly active on Valorant.
 
 
 

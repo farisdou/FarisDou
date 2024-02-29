@@ -2,16 +2,16 @@
 
 - ☁ Conquering All Domains of Security. 
 
-- 🧠 I'm actively improving my skillset, next will be Vulnerability Management.
+- 🧠 I'm actively improving my skillset, full-stack development soon.
 
 - 🗃 I'm currently working on Certifications.
 
-- 🌍 I'm mostly active on Valorant.
+- 🌍 I'm mostly active researching.
 
 
 
 
-Click "Details" Below For List Of Projects By Industry
+Click "Details" Below For List Of Projects By Field.
 
 ---
 

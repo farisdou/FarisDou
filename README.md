@@ -27,7 +27,7 @@ Click "Details" Below For List Of Projects By Field.
 
 <h2> ☁️ Cloud DevOps Projects:</h2>
 
-- [Native K8s Cloud Monitoring Application]
+- [Native K8s Cloud Monitoring Application](https://github.com/FarisDou/AWS-K8S-Docker-Flask-Cloud-App)
 
 <details close>
 

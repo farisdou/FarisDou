@@ -2,9 +2,9 @@
 
 - ☁ Conquering All Domains of Security. 
 
-- 🧠 I'm actively improving my skillset, full-stack development soon.
+- 🧠 I'm actively improving my skillsets.
 
-- 🗃 I'm currently working on Certifications.
+- 🗃 I'm currently working on CompTIA CASP+ & ISACA CISM.
 
 - 🌍 I'm mostly active researching.
 

@@ -8,7 +8,6 @@
 
 - 🌍 I'm mostly active researching.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q1YFTS1)
 
 
 Click "Details" Below For List Of Projects By Field.

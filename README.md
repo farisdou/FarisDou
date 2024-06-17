@@ -1,12 +1,12 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
-- ☁ Conquering All Domains of Security. 
+- ☁ CL/CI/CD Lifestyle (Continouse Learning, Intergration, Delivery)
 
-- 🧠 I'm actively improving my skillsets.
+- 🗃 I'm currently working on CompTIA Certified Advance Practioner Professional +.
 
-- 🗃 I'm currently working on CompTIA CASP+ & ISACA CISM.
+- 🌍 Outside of work, school, and building projects, I am out in the world trying to make a difference.
 
-- 🌍 I'm mostly active researching.
+- 📖 “Determine that today you will overcome your self of the day before, tomorrow you will win over those of lesser skill, and later you will win over those of greater skill.” ― Miyamoto Musashi
 
 
 
@@ -27,6 +27,7 @@ Click "Details" Below For List Of Projects By Field.
 <h2> ☁️ Cloud DevOps Projects:</h2>
 
 - [Native K8s Cloud Monitoring Application](https://github.com/FarisDou/AWS-K8S-Docker-Flask-Cloud-App)
+- [Deploy Infrastructure and Assets to Azure using Terraform](https://github.com/FarisDou/Deploy-Infrastructure-to-Azure-with-Terraform)
 
 <details close>
 

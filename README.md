@@ -26,7 +26,7 @@ Click "Details" Below For List Of Projects By Field.
 
 <h2> ☁️ Cloud DevOps Projects:</h2>
 
-- [Native K8s Cloud Monitoring Application](https://github.com/FarisDou/AWS-K8S-Docker-Flask-Cloud-App)
+- [Native Cloud Monitoring Application with Docker, Kubernetes, AWS](https://github.com/FarisDou/AWS-K8S-Docker-Flask-Cloud-App)
 - [Deploy Infrastructure and Assets to Azure using Terraform](https://github.com/FarisDou/Deploy-Infrastructure-to-Azure-with-Terraform)
 
 <details close>
@@ -37,11 +37,11 @@ Click "Details" Below For List Of Projects By Field.
 
 </summary>
 
-- [Summary of Cloud SOC Project](https://github.com/pludou/Cloud-SOC-Project-Directory)
-- [Cloud SOC Pre-requisites](https://github.com/pludou/Cloud-SOC-PreReq)
-- [Logging and Monitoring](https://github.com/pludou/Logging-and-Monitoring)
-- [Microsoft Sentinel SIEM](https://github.com/pludou/Microsoft-Sentinel-SIEM-)
-- [Secure Cloud Configuration](https://github.com/pludou/Secure-Cloud-Configuration)
+- [Summary of Cloud SOC Project](https://github.com/farisdou/Cloud-SOC-Project-Directory)
+- [Cloud SOC Pre-requisites](https://github.com/farisdou/Cloud-SOC-PreReq)
+- [Logging and Monitoring](https://github.com/farisdou/Logging-and-Monitoring)
+- [Microsoft Sentinel SIEM](https://github.com/farisdou/Microsoft-Sentinel-SIEM-)
+- [Secure Cloud Configuration](https://github.com/farisdou/Secure-Cloud-Configuration)
 
 ---
 
@@ -53,9 +53,9 @@ Click "Details" Below For List Of Projects By Field.
 
 </summary>
   
-  - [Creating & Processing Data Pipeline](https://github.com/fnabeel/Building-Pipelines)
-  - [Data Science Collection](https://github.com/fnabeel/Data-Science-Collection)
-  - [SpaceX Falcon-9](https://github.com/fnabeel/Space-X-Falcon-9)
+  - [Creating & Processing Data Pipeline](https://github.com/farisdou/Building-Pipelines)
+  - [Data Science Collection](https://github.com/farisdouData-Science-Collection)
+  - [SpaceX Falcon-9](https://github.com/farisdou/Space-X-Falcon-9)
   
 ---
 <details close>
@@ -67,12 +67,12 @@ Click "Details" Below For List Of Projects By Field.
 </summary>
 
 - <b>osTicket (Help Desk Ticketing Systems)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/pludou/osticket_prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/pludou/osTicket---Post-Install-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/pludou/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
+  - [osTicket: Prerequisites and Installation](https://github.com/farisdou/osticket_prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/farisdou/osTicket---Post-Install-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/farisdou/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/pludou/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/fpludou/-azure-network-protocols)
-  - [Network File Shares and Permissions](https://github.com/pludou/Network-File-Shares-and-Permissions)
-  - [Building Intuition for DNS](https://github.com/pludou/Building-Intuition-for-DNS)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/farisdou/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/farisdou/-azure-network-protocols)
+  - [Network File Shares and Permissions](https://github.com/farisdou/Network-File-Shares-and-Permissions)
+  - [Building Intuition for DNS](https://github.com/farisdou/Building-Intuition-for-DNS)

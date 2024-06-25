@@ -1,6 +1,6 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
-- ☁ CL/CI/CD Lifestyle (Continouse Learning, Intergration, Delivery)
+- ☁ CL/CI/CD Lifestyle (Continuous Learning, Intergration, Delivery)
 
 - 🗃 I'm currently working on CompTIA Certified Advance Practioner Professional +.
 

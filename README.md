@@ -42,6 +42,7 @@ Click "Details" Below For List Of Projects By Field.
 - [Logging and Monitoring](https://github.com/farisdou/Logging-and-Monitoring)
 - [Microsoft Sentinel SIEM](https://github.com/farisdou/Microsoft-Sentinel-SIEM-)
 - [Secure Cloud Configuration](https://github.com/farisdou/Secure-Cloud-Configuration)
+- [Vulnerability Management](https://github.com/FarisDou/Vulnerability-Management)
 
 ---
 

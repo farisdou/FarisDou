@@ -24,6 +24,16 @@ Click "Details" Below For List Of Projects By Field.
 
 ---
 
+<h2> 💻 Coding Projects:</h2>
+
+- Password Manager
+
+<details close>
+
+<div>
+
+</summary>
+
 <h2> ☁️ Cloud DevOps Projects:</h2>
 
 - [Native Cloud Monitoring Application with Docker, Kubernetes, AWS](https://github.com/FarisDou/AWS-K8S-Docker-Flask-Cloud-App)
